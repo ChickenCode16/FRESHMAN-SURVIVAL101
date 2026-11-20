@@ -1,0 +1,9 @@
+.commuting-main {
+  width: min(1250px, 96%);
+  margin: 0 auto;
+  padding: 30px 0 45px;
+}
+
+.commuting-content {
+  min-width: 0;
+}
